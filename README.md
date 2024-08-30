@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NobelNizam
 - 👀 I’m interested in A.I
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Pyhton Machine Learning
-- 😄 Pronouns: Nobel/Bel
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Data Science
+- 😄 Pronouns: Nobel or Bel
 - ⚡ Fun fact: I want to be Machine Learning Engineer!
